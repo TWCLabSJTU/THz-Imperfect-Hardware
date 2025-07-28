@@ -1,12 +1,6 @@
 # DNN-based Two-stage Compensation Algorithm for THz Hybrid Beamforming with Imperfect Hardware
 
-This repository provides a demonstration of our proposed two-stage compensation algorithm for THz hybrid beamforming systems under hardware impairments. The method is based on deep neural networks and effectively mitigates the performance loss caused by practical RF imperfections.
-
-## 🔗 Demo Video
-
-The demonstration video is available at:
-
-👉 [https://twclabsjtu.github.io/THz-Imperfect-Hardware/](https://twclabsjtu.github.io/THz-Imperfect-Hardware/)
+## 🔗 Demo Video is available at: [https://twclabsjtu.github.io/THz-Imperfect-Hardware/](https://twclabsjtu.github.io/THz-Imperfect-Hardware/)
 
 ## 📄 Citation
 
